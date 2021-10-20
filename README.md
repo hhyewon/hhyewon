@@ -24,3 +24,5 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hhyewon&layout=compact)](https://github.com/hhyewon)
 
 
+📌 진행중인 프로젝트
+📌 인턴 근무일지
