@@ -22,7 +22,3 @@ Here are some ideas to get you started:
 
 [![github stats](https://github-readme-stats.vercel.app/api?username=hhyewon&show_icons=true&hide_border=true)](https://github.com/hhyewon)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hhyewon&layout=compact)](https://github.com/hhyewon)
-
-
-📌 [진행중인 프로젝트](https://github.com/hhyewon/InstagramCloneProject)    <a href="" target="_blank"><img src="https://img.shields.io/badge/Kotlin-0095D5?style=flat-square&logo=Kotlin&logoColor=white"/></a>   / HTML / CSS    
-📌 [인턴 근무일지](https://github.com/hhyewon/TM)
